@@ -1,0 +1,7 @@
+[1119/153358.811:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1119/211258.428:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1120/223150.604:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1121/141424.291:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1126/200130.708:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1128/120059.136:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1128/124438.557:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\merix\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\4fd375cf-0022-483f-a8c2-ee644e56f4b6: The system cannot find the path specified. (0x3)
